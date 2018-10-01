@@ -1,0 +1,8 @@
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\bin\Debug\ServiceBusReadFromDeadLetter.exe.config
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\bin\Debug\ServiceBusReadFromDeadLetter.exe
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\bin\Debug\ServiceBusReadFromDeadLetter.pdb
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\obj\Debug\ServiceBusReadFromDeadLetter.csprojResolveAssemblyReference.cache
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\obj\Debug\ServiceBusReadFromDeadLetter.exe
+C:\Users\mrkar\Documents\Visual Studio 2017\Projects\ServiceBusReadFromDeadLetter\ServiceBusReadFromDeadLetter\obj\Debug\ServiceBusReadFromDeadLetter.pdb

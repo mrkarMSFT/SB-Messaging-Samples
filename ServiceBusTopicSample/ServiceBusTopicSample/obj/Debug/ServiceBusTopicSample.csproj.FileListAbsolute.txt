@@ -1,0 +1,8 @@
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\bin\Debug\ServiceBusTopicSample.exe.config
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\bin\Debug\ServiceBusTopicSample.exe
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\bin\Debug\ServiceBusTopicSample.pdb
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\obj\Debug\ServiceBusTopicSample.csprojResolveAssemblyReference.cache
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\obj\Debug\ServiceBusTopicSample.exe
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusTopicSample\ServiceBusTopicSample\obj\Debug\ServiceBusTopicSample.pdb

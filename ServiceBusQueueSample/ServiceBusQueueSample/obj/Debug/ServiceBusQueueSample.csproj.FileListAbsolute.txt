@@ -1,0 +1,8 @@
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\bin\Debug\ServiceBusQueueSample.exe.config
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\bin\Debug\ServiceBusQueueSample.exe
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\bin\Debug\ServiceBusQueueSample.pdb
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\obj\Debug\ServiceBusQueueSample.csprojResolveAssemblyReference.cache
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\obj\Debug\ServiceBusQueueSample.exe
+c:\users\mrkar\documents\visual studio 2017\Projects\ServiceBusQueueSample\ServiceBusQueueSample\obj\Debug\ServiceBusQueueSample.pdb
